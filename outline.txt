@@ -3,4 +3,4 @@ Chapter 1
 -Tom tries to interest the others in a racist book.
 
 Chapter 2
--Hello world catsby and gatsby
+-Hello world catsby and gatsby.
